@@ -1,0 +1,6 @@
+name: SCM Manager
+description: |
+    Provides a ready to run SCM Manager instance
+version: 0.1.0
+category: SCM
+maintainer: Fabio Napoleoni
