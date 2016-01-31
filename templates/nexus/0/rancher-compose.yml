@@ -1,3 +1,7 @@
+.catalog:
+    name: "Sonatype Nexus"
+    version: "2.11.2"
+    description: "Nexus Artifacts Manager"
 nexus-data:
   scale: 1
 nexus-server:
